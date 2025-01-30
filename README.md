@@ -1,7 +1,6 @@
 # Бот-Telegram: Получение текущего курса валют
 
 <p align="center">
-  <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
   <img src="https://img.shields.io/badge/python-3.7%2B-blue" alt="Python version" />
 </p>
 
