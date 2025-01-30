@@ -1,7 +1,9 @@
 # Бот-Telegram: Получение текущего курса валют
 
-![GitHub](https://img.shields.io/badge/license-MIT-blue.svg)  
-![Python](https://img.shields.io/badge/python-3.7%2B-blue)  
+<p align="center">
+  <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
+  <img src="https://img.shields.io/badge/python-3.7%2B-blue" alt="Python version" />
+</p>
 
 Этот Telegram бот позволяет пользователям получать текущий курс валют. Бот использует API для получения актуальных данных о курсе валют и предоставляет их в удобном формате.  
 
@@ -24,7 +26,9 @@
    ```
 
 **Запустите бота:**  
+   ```
    python bot_tg.py  
+   ```
 
 ## 📌 Функциональность  
 
@@ -39,4 +43,4 @@
 
 ## 📝 Автор  
 
-**Roman** – [GitHub Profile](https://github.com/coolgromov)
+**Roman** – [GitHub](https://github.com/coolgromov)
